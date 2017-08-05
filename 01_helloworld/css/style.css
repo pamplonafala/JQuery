@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+
+a {text-decoration: none;}
+a:hover {text-decoration: underline;}
+
+body {background-color: #fff;}
+
+#body {
+	display: block;
+}
+
+#page {
+	margin: 20px auto;
+	padding: 0 20px;
+	font-family: Georgia, serif;
+	background-color: #ddd;
+	box-shadow: 3px 3px 3px black;
+	border: 1px solid;
+	width: 150px;
+}
+
+
+
+

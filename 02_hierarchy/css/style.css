@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+	background-color: #fff;
+}
+
+.body {
+	display: block;
+}
+
+#page {
+	margin: 20px auto;
+	padding: 20px;
+	font-family: Georgia, serif;
+	background-color: #ddd;
+	box-shadow: 3px 3px 3px black;
+	border: 1px solid;
+	width: 250px;
+}
